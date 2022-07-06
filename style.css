@@ -40,5 +40,6 @@ h1 {
 .btn-primary:hover {
   background-color: coral;
   border-color:rgb(70, 69, 69);
-  border-width: 1rem;
+  border-width: 2px;
+  width: 200px;
 }
